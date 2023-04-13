@@ -14,3 +14,5 @@ Didactische tips
 # Tools
 
 ## Anki
+## Teach2000
+## Mindmap 
